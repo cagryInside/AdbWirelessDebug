@@ -1,4 +1,4 @@
-### Android Wireless Debug Script
+# Android Wireless Debug Script
 `Adbconnect` is a shell script, which simplifies annoying `adb` remote debug configuration. Instead of finding the devices ip address and typing bunch of junk command, you can just run `adbconnect.sh`.
 
 ##Requirements
